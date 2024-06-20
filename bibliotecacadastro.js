@@ -113,6 +113,8 @@ process.stdin.on("data", function (data) {
                 break;
         }
     }
-});
-console.log("teste")
+}); 
+
+
+
 
